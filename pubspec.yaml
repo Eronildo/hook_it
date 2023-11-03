@@ -1,0 +1,20 @@
+name: hook_it
+description: >
+  Hook the objects in a simple way with less boilerplate.
+  You can use it, listen it and dispose it in a single function inside the build method.
+version: 0.0.1
+repository: https://github.com/Eronildo/hook_it
+homepage: https://github.com/Eronildo/hook_it
+topics: [hook, hook-it, flutter-hooks, boilerplate]
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
